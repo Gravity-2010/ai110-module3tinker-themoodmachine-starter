@@ -50,6 +50,15 @@ SAMPLE_POSTS = [
     "This is fine",
     "So excited for the weekend",
     "I am not happy about this",
+    "Lowkey stressed but still proud of myself",
+    "I absolutely love getting stuck in traffic :)",
+    "This day has been a mess 😭 but I am surviving",
+    "No cap, that test was brutal",
+    "Honestly feeling kinda good today despite everything",
+    "Meh, whatever lol",
+    "Absolutely loved the concert tonight 🎉",
+    "Best day ever, I am on cloud nine 😊",
+    "Feeling super grateful and happy today",
 ]
 
 # Human labels for each post above.
@@ -65,6 +74,15 @@ TRUE_LABELS = [
     "neutral",   # "This is fine"
     "positive",  # "So excited for the weekend"
     "negative",  # "I am not happy about this"
+    "mixed",     # "Lowkey stressed but still proud of myself"
+    "mixed",     # "I absolutely love getting stuck in traffic :)"
+    "mixed",     # "This day has been a mess 😭 but I am surviving"
+    "negative",  # "No cap, that test was brutal"
+    "mixed",     # "Honestly feeling kinda good today despite everything"
+    "neutral",   # "Meh, whatever lol"
+    "positive",  # "Absolutely loved the concert tonight 🎉"
+    "positive",  # "Best day ever, I am on cloud nine 😊"
+    "positive",  # "Feeling super grateful and happy today"
 ]
 
 # TODO: Add 5-10 more posts and labels.
