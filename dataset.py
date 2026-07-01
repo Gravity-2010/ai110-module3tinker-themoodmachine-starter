@@ -57,7 +57,7 @@ SAMPLE_POSTS = [
     "Honestly feeling kinda good today despite everything",
     "Meh, whatever lol",
     "Absolutely loved the concert tonight 🎉",
-    "Best day ever, I am on cloud nine 😊",
+    "Best day ever, it was super fun 😊",
     "Feeling super grateful and happy today",
 ]
 
